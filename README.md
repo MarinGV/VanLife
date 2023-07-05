@@ -2,7 +2,7 @@
 
 ## Overview
 
-A project used to learn about react router 6.
+A project created to learn about react router 6.
 
 Source: https://www.youtube.com/watch?v=nDGA3km5He4&t=3085s
 
